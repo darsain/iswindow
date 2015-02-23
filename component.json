@@ -1,0 +1,14 @@
+{
+	"name": "iswindow",
+	"repo": "darsain/iswindow",
+	"description": "Checks whether value is a window object.",
+	"version": "1.0.0",
+	"keywords": [
+		"is",
+		"window"
+	],
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
