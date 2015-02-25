@@ -2,7 +2,7 @@
 
 Checks whether value is a window object.
 
-#### Support
+###### *Support*
 
 IE8+ is the target. But making it work in IE8 also makes it work in IE6+, so this basically works everywhere, even old Safaris.
 
